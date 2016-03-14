@@ -1,0 +1,28 @@
+name: NativeNavigation
+favicon: null
+layout_spectrum: 0.15980079653672874
+typography_spectrum: 0.26053383690305054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.37398515921086073
+  lightness: 0.8889090162701905
+  saturation: 0.9835241343826056
+  rhythmicContrast: 0.11930482159368694
+purpose: []
